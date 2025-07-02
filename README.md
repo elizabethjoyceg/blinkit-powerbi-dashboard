@@ -28,7 +28,7 @@ Designed and developed a fully interactive Power BI dashboard to explore Blinkit
 - 📊 [blinkit_dataset.csv](https://github.com/elizabethjoyceg/blinkit-powerbi-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx) – Raw dataset used  
 - 📸 Dashboard Screenshot:
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ## 🔗 Live Repository
 Explore the full project:  

@@ -6,7 +6,7 @@ Designed and developed a fully interactive Power BI dashboard to explore Blinkit
 ## 🛠 Tools & Technologies
 - Power BI  
 - Excel (for data cleaning & preparation)  
-- DAX (for calculated columns and KPI measures)
+- DAX (for KPI measures and slicer control using a calculated table)
 
 ## 📊 Key Metrics & Visualizations
 - **Total Sales**, **Average Sales**, **Number of Items Sold**, **Average Customer Rating**, **Item Visibility**

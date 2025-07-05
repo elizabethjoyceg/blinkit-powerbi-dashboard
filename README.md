@@ -25,7 +25,7 @@ Designed and developed a fully interactive Power BI dashboard to explore Blinkit
 
 ## 📂 Files Included
 - 📄 [Blinkit_Analysis.pbix](https://github.com/elizabethjoyceg/blinkit-powerbi-dashboard/blob/main/Blinkit%20grocery%20sales%20performance%20and%20trend%20analysis.pbix) – Power BI dashboard file  
-- 📊 [blinkit_dataset.csv](https://github.com/elizabethjoyceg/blinkit-powerbi-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx) – Raw dataset used  
+- 📊 [blinkit_dataset.xlsx](https://github.com/elizabethjoyceg/blinkit-powerbi-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx) – Raw dataset used  
 - 📸 Dashboard Screenshot:
 
 ![Dashboard Preview](dashboard.png)
